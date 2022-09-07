@@ -1,0 +1,9 @@
+[submodule "arc"]
+	path = arc
+	url = git@work.github.com:artifact11/Alphuzz.git
+[submodule "src/Alphuzz"]
+	path = src/Alphuzz
+	url = git@work.github.com:artifact11/Alphuzz.git
+[submodule "src/Alphuzzplusplus"]
+	path = src/Alphuzzplusplus
+	url = git@work.github.com:artifact11/Alphuzzplusplus
