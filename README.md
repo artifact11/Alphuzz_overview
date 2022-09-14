@@ -28,7 +28,7 @@ we provide a Docker image with our prototypes and all the software package depen
 We leverage three datasets in our paper. Here, the links to each dataset are provided. In order to facilitate the reproduction, the docker image mentioned above contains all the datasets, initial seeds and scripts used to run the experiments.
 
 
-1. The CGC dataset. - <https://github.com/CyberGrandChallenge>
+1. The CGC dataset. - <https://github.com/trailofbits/cb-multios>
    The initial seeds are provided by the CGC dataset.
 
 2. The UniFuzz dataset. <https://github.com/unifuzz/overview>
